@@ -1,0 +1,629 @@
+2025-12-03 00:00:00,835 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 886953864 Bytes (1073741824)
+2025-12-03 00:00:01,742 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 916313992 Bytes (1073741824)
+2025-12-03 00:00:02,181 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 828655288 Bytes (1073741824)
+2025-12-03 00:00:02,314 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RNG
+2025-12-03 00:00:02,314 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SDIO
+2025-12-03 00:00:02,314 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2025-12-03 00:00:02,314 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2025-12-03 00:00:02,314 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: CRC
+2025-12-03 00:00:02,314 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2025-12-03 00:00:02,314 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2025-12-03 00:00:02,314 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DMA
+2025-12-03 00:00:02,314 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2025-12-03 00:00:02,314 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FATFS
+2025-12-03 00:00:02,315 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.13.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.0.202307051724\\db\
+2025-12-03 00:00:02,324 [INFO] Argument:319 - Argument : hdmavalue: null
+2025-12-03 00:00:02,324 [INFO] Argument:321 - 	 sub Args: 
+2025-12-03 00:00:02,324 [INFO] Argument:319 - Argument : Instancevalue: DMA2_Stream3
+2025-12-03 00:00:02,324 [INFO] Argument:329 - Argument : Instancevalue: DMA2_Stream3
+2025-12-03 00:00:02,324 [INFO] Argument:319 - Argument : Initvalue: null
+2025-12-03 00:00:02,324 [INFO] Argument:321 - 	 sub Args: 
+2025-12-03 00:00:02,324 [INFO] Argument:319 - Argument : Channelvalue: DMA_CHANNEL_4
+2025-12-03 00:00:02,324 [INFO] Argument:329 - Argument : Channelvalue: DMA_CHANNEL_4
+2025-12-03 00:00:02,324 [INFO] Argument:319 - Argument : Directionvalue: DMA_MEMORY_TO_PERIPH
+2025-12-03 00:00:02,324 [INFO] Argument:329 - Argument : Directionvalue: DMA_MEMORY_TO_PERIPH
+2025-12-03 00:00:02,324 [INFO] Argument:319 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2025-12-03 00:00:02,324 [INFO] Argument:329 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2025-12-03 00:00:02,324 [INFO] Argument:319 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2025-12-03 00:00:02,324 [INFO] Argument:329 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2025-12-03 00:00:02,324 [INFO] Argument:319 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_WORD
+2025-12-03 00:00:02,324 [INFO] Argument:329 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_WORD
+2025-12-03 00:00:02,324 [INFO] Argument:319 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_WORD
+2025-12-03 00:00:02,324 [INFO] Argument:329 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_WORD
+2025-12-03 00:00:02,324 [INFO] Argument:319 - Argument : Modevalue: DMA_PFCTRL
+2025-12-03 00:00:02,324 [INFO] Argument:329 - Argument : Modevalue: DMA_PFCTRL
+2025-12-03 00:00:02,324 [INFO] Argument:319 - Argument : Priorityvalue: DMA_PRIORITY_VERY_HIGH
+2025-12-03 00:00:02,324 [INFO] Argument:329 - Argument : Priorityvalue: DMA_PRIORITY_VERY_HIGH
+2025-12-03 00:00:02,324 [INFO] Argument:319 - Argument : FIFOModevalue: DMA_FIFOMODE_ENABLE
+2025-12-03 00:00:02,324 [INFO] Argument:329 - Argument : FIFOModevalue: DMA_FIFOMODE_ENABLE
+2025-12-03 00:00:02,324 [INFO] Argument:319 - Argument : FIFOThresholdvalue: DMA_FIFO_THRESHOLD_FULL
+2025-12-03 00:00:02,324 [INFO] Argument:329 - Argument : FIFOThresholdvalue: DMA_FIFO_THRESHOLD_FULL
+2025-12-03 00:00:02,324 [INFO] Argument:319 - Argument : MemBurstvalue: DMA_MBURST_INC4
+2025-12-03 00:00:02,324 [INFO] Argument:329 - Argument : MemBurstvalue: DMA_MBURST_INC4
+2025-12-03 00:00:02,324 [INFO] Argument:319 - Argument : PeriphBurstvalue: DMA_PBURST_INC4
+2025-12-03 00:00:02,324 [INFO] Argument:329 - Argument : PeriphBurstvalue: DMA_PBURST_INC4
+2025-12-03 00:00:02,324 [INFO] Argument:319 - Argument : Lockvalue: null
+2025-12-03 00:00:02,325 [INFO] Argument:329 - Argument : Lockvalue: null
+2025-12-03 00:00:02,325 [INFO] Argument:319 - Argument : Statevalue: null
+2025-12-03 00:00:02,325 [INFO] Argument:329 - Argument : Statevalue: null
+2025-12-03 00:00:02,325 [INFO] Argument:319 - Argument : Parentvalue: null
+2025-12-03 00:00:02,325 [INFO] Argument:329 - Argument : Parentvalue: null
+2025-12-03 00:00:02,325 [INFO] Argument:319 - Argument : XferCpltCallbackvalue: null
+2025-12-03 00:00:02,325 [INFO] Argument:329 - Argument : XferCpltCallbackvalue: null
+2025-12-03 00:00:02,325 [INFO] Argument:319 - Argument : XferHalfCpltCallbackvalue: null
+2025-12-03 00:00:02,325 [INFO] Argument:329 - Argument : XferHalfCpltCallbackvalue: null
+2025-12-03 00:00:02,325 [INFO] Argument:319 - Argument : XferM1CpltCallbackvalue: null
+2025-12-03 00:00:02,325 [INFO] Argument:329 - Argument : XferM1CpltCallbackvalue: null
+2025-12-03 00:00:02,325 [INFO] Argument:319 - Argument : XferErrorCallbackvalue: null
+2025-12-03 00:00:02,325 [INFO] Argument:329 - Argument : XferErrorCallbackvalue: null
+2025-12-03 00:00:02,325 [INFO] Argument:319 - Argument : ErrorCodevalue: null
+2025-12-03 00:00:02,325 [INFO] Argument:329 - Argument : ErrorCodevalue: null
+2025-12-03 00:00:02,437 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\license.tmp_save
+2025-12-03 00:00:02,533 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\license.tmp
+2025-12-03 00:00:02,544 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\gpio.tmp_save
+2025-12-03 00:00:02,668 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\gpio.tmp
+2025-12-03 00:00:02,804 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_HalInit.tmp_save
+2025-12-03 00:00:02,865 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_HalInit.tmp
+2025-12-03 00:00:02,867 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_vars.tmp_save
+2025-12-03 00:00:02,906 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_vars.tmp
+2025-12-03 00:00:02,908 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_ext_vars.tmp_save
+2025-12-03 00:00:02,944 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_ext_vars.tmp
+2025-12-03 00:00:02,946 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_inc.tmp_save
+2025-12-03 00:00:02,980 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_inc.tmp
+2025-12-03 00:00:03,002 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\dma.tmp_save
+2025-12-03 00:00:03,074 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\dma.tmp
+2025-12-03 00:00:03,078 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\dma_GV.tmp_save
+2025-12-03 00:00:03,115 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\dma_GV.tmp
+2025-12-03 00:00:03,123 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_HalInit.tmp_save
+2025-12-03 00:00:03,173 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_HalInit.tmp
+2025-12-03 00:00:03,177 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_vars.tmp_save
+2025-12-03 00:00:03,212 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_vars.tmp
+2025-12-03 00:00:03,215 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_ext_vars.tmp_save
+2025-12-03 00:00:03,259 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_ext_vars.tmp
+2025-12-03 00:00:03,267 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_inc.tmp_save
+2025-12-03 00:00:03,334 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_inc.tmp
+2025-12-03 00:00:03,354 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\ffconf.h_save
+2025-12-03 00:00:03,501 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\ffconf.h
+2025-12-03 00:00:03,527 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\bsp_driver_sd.c_save
+2025-12-03 00:00:03,646 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\bsp_driver_sd.c
+2025-12-03 00:00:03,654 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\bsp_driver_sd.h_save
+2025-12-03 00:00:03,727 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\bsp_driver_sd.h
+2025-12-03 00:00:03,735 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\sd_diskio.h_save
+2025-12-03 00:00:03,803 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\sd_diskio.h
+2025-12-03 00:00:03,822 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\sd_diskio.c_save
+2025-12-03 00:00:03,937 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\sd_diskio.c
+2025-12-03 00:00:03,945 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\App\fatfs.c_save
+2025-12-03 00:00:04,054 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\App\fatfs.c
+2025-12-03 00:00:04,062 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\App\fatfs.h_save
+2025-12-03 00:00:04,137 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\App\fatfs.h
+2025-12-03 00:00:04,144 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\fatfs_platform.c_save
+2025-12-03 00:00:04,214 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\fatfs_platform.c
+2025-12-03 00:00:04,220 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\fatfs_platform.h_save
+2025-12-03 00:00:04,280 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\fatfs_platform.h
+2025-12-03 00:00:04,304 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Src\stm32f4xx_it.c_save
+2025-12-03 00:00:04,525 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Src\stm32f4xx_it.c
+2025-12-03 00:00:04,533 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Inc\stm32f4xx_it.h_save
+2025-12-03 00:00:04,626 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Inc\stm32f4xx_it.h
+2025-12-03 00:00:04,653 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Src\stm32f4xx_hal_msp.c_save
+2025-12-03 00:00:04,779 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Src\stm32f4xx_hal_msp.c
+2025-12-03 00:00:04,795 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\system.tmp_save
+2025-12-03 00:00:04,853 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\system.tmp
+2025-12-03 00:00:04,878 [INFO] CodeEngine:311 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-12-03 00:00:04,998 [INFO] CodeEngine:335 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Inc\stm32f4xx_hal_conf.h
+2025-12-03 00:00:05,069 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Inc\main.h_save
+2025-12-03 00:00:05,172 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Inc\main.h
+2025-12-03 00:00:05,194 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Src\main.c_save
+2025-12-03 00:00:05,409 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Src\main.c
+2025-12-03 00:00:05,953 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 231mS.
+2025-12-03 00:00:05,961 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2025-12-03 00:00:06,216 [INFO] ConfigFileManager:1457 - The Die is : DIE413
+2025-12-03 00:00:08,106 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 2144mS.
+2025-12-03 00:00:08,108 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2025-12-03 00:00:08,118 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2025-12-03 00:22:27,372 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-12-03 00:22:29,723 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 790840072 Bytes (1073741824)
+2025-12-03 00:25:15,926 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 956049656 Bytes (1073741824)
+2025-12-03 00:25:17,127 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 810725272 Bytes (1073741824)
+2025-12-03 00:25:17,545 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 797150840 Bytes (1073741824)
+2025-12-03 00:25:17,664 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RNG
+2025-12-03 00:25:17,664 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SDIO
+2025-12-03 00:25:17,664 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2025-12-03 00:25:17,665 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2025-12-03 00:25:17,665 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: CRC
+2025-12-03 00:25:17,665 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2025-12-03 00:25:17,665 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2025-12-03 00:25:17,665 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DMA
+2025-12-03 00:25:17,665 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2025-12-03 00:25:17,665 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FATFS
+2025-12-03 00:25:17,665 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.13.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.0.202307051724\\db\
+2025-12-03 00:25:17,675 [INFO] Argument:319 - Argument : hdmavalue: null
+2025-12-03 00:25:17,675 [INFO] Argument:321 - 	 sub Args: 
+2025-12-03 00:25:17,675 [INFO] Argument:319 - Argument : Instancevalue: DMA2_Stream3
+2025-12-03 00:25:17,676 [INFO] Argument:329 - Argument : Instancevalue: DMA2_Stream3
+2025-12-03 00:25:17,676 [INFO] Argument:319 - Argument : Initvalue: null
+2025-12-03 00:25:17,676 [INFO] Argument:321 - 	 sub Args: 
+2025-12-03 00:25:17,676 [INFO] Argument:319 - Argument : Channelvalue: DMA_CHANNEL_4
+2025-12-03 00:25:17,676 [INFO] Argument:329 - Argument : Channelvalue: DMA_CHANNEL_4
+2025-12-03 00:25:17,676 [INFO] Argument:319 - Argument : Directionvalue: DMA_MEMORY_TO_PERIPH
+2025-12-03 00:25:17,676 [INFO] Argument:329 - Argument : Directionvalue: DMA_MEMORY_TO_PERIPH
+2025-12-03 00:25:17,676 [INFO] Argument:319 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2025-12-03 00:25:17,676 [INFO] Argument:329 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2025-12-03 00:25:17,676 [INFO] Argument:319 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2025-12-03 00:25:17,676 [INFO] Argument:329 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2025-12-03 00:25:17,676 [INFO] Argument:319 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_WORD
+2025-12-03 00:25:17,676 [INFO] Argument:329 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_WORD
+2025-12-03 00:25:17,676 [INFO] Argument:319 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_WORD
+2025-12-03 00:25:17,676 [INFO] Argument:329 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_WORD
+2025-12-03 00:25:17,676 [INFO] Argument:319 - Argument : Modevalue: DMA_PFCTRL
+2025-12-03 00:25:17,676 [INFO] Argument:329 - Argument : Modevalue: DMA_PFCTRL
+2025-12-03 00:25:17,676 [INFO] Argument:319 - Argument : Priorityvalue: DMA_PRIORITY_VERY_HIGH
+2025-12-03 00:25:17,676 [INFO] Argument:329 - Argument : Priorityvalue: DMA_PRIORITY_VERY_HIGH
+2025-12-03 00:25:17,676 [INFO] Argument:319 - Argument : FIFOModevalue: DMA_FIFOMODE_ENABLE
+2025-12-03 00:25:17,676 [INFO] Argument:329 - Argument : FIFOModevalue: DMA_FIFOMODE_ENABLE
+2025-12-03 00:25:17,676 [INFO] Argument:319 - Argument : FIFOThresholdvalue: DMA_FIFO_THRESHOLD_FULL
+2025-12-03 00:25:17,676 [INFO] Argument:329 - Argument : FIFOThresholdvalue: DMA_FIFO_THRESHOLD_FULL
+2025-12-03 00:25:17,676 [INFO] Argument:319 - Argument : MemBurstvalue: DMA_MBURST_INC4
+2025-12-03 00:25:17,676 [INFO] Argument:329 - Argument : MemBurstvalue: DMA_MBURST_INC4
+2025-12-03 00:25:17,676 [INFO] Argument:319 - Argument : PeriphBurstvalue: DMA_PBURST_INC4
+2025-12-03 00:25:17,676 [INFO] Argument:329 - Argument : PeriphBurstvalue: DMA_PBURST_INC4
+2025-12-03 00:25:17,676 [INFO] Argument:319 - Argument : Lockvalue: null
+2025-12-03 00:25:17,676 [INFO] Argument:329 - Argument : Lockvalue: null
+2025-12-03 00:25:17,676 [INFO] Argument:319 - Argument : Statevalue: null
+2025-12-03 00:25:17,676 [INFO] Argument:329 - Argument : Statevalue: null
+2025-12-03 00:25:17,676 [INFO] Argument:319 - Argument : Parentvalue: null
+2025-12-03 00:25:17,676 [INFO] Argument:329 - Argument : Parentvalue: null
+2025-12-03 00:25:17,676 [INFO] Argument:319 - Argument : XferCpltCallbackvalue: null
+2025-12-03 00:25:17,676 [INFO] Argument:329 - Argument : XferCpltCallbackvalue: null
+2025-12-03 00:25:17,676 [INFO] Argument:319 - Argument : XferHalfCpltCallbackvalue: null
+2025-12-03 00:25:17,676 [INFO] Argument:329 - Argument : XferHalfCpltCallbackvalue: null
+2025-12-03 00:25:17,676 [INFO] Argument:319 - Argument : XferM1CpltCallbackvalue: null
+2025-12-03 00:25:17,676 [INFO] Argument:329 - Argument : XferM1CpltCallbackvalue: null
+2025-12-03 00:25:17,676 [INFO] Argument:319 - Argument : XferErrorCallbackvalue: null
+2025-12-03 00:25:17,676 [INFO] Argument:329 - Argument : XferErrorCallbackvalue: null
+2025-12-03 00:25:17,676 [INFO] Argument:319 - Argument : ErrorCodevalue: null
+2025-12-03 00:25:17,676 [INFO] Argument:329 - Argument : ErrorCodevalue: null
+2025-12-03 00:25:17,677 [INFO] Argument:319 - Argument : hdmavalue: null
+2025-12-03 00:25:17,677 [INFO] Argument:321 - 	 sub Args: 
+2025-12-03 00:25:17,677 [INFO] Argument:319 - Argument : Instancevalue: DMA2_Stream6
+2025-12-03 00:25:17,677 [INFO] Argument:329 - Argument : Instancevalue: DMA2_Stream6
+2025-12-03 00:25:17,677 [INFO] Argument:319 - Argument : Initvalue: null
+2025-12-03 00:25:17,677 [INFO] Argument:321 - 	 sub Args: 
+2025-12-03 00:25:17,677 [INFO] Argument:319 - Argument : Channelvalue: DMA_CHANNEL_4
+2025-12-03 00:25:17,677 [INFO] Argument:329 - Argument : Channelvalue: DMA_CHANNEL_4
+2025-12-03 00:25:17,677 [INFO] Argument:319 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2025-12-03 00:25:17,677 [INFO] Argument:329 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2025-12-03 00:25:17,677 [INFO] Argument:319 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2025-12-03 00:25:17,677 [INFO] Argument:329 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2025-12-03 00:25:17,677 [INFO] Argument:319 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2025-12-03 00:25:17,677 [INFO] Argument:329 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2025-12-03 00:25:17,677 [INFO] Argument:319 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_WORD
+2025-12-03 00:25:17,677 [INFO] Argument:329 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_WORD
+2025-12-03 00:25:17,677 [INFO] Argument:319 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_WORD
+2025-12-03 00:25:17,677 [INFO] Argument:329 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_WORD
+2025-12-03 00:25:17,677 [INFO] Argument:319 - Argument : Modevalue: DMA_PFCTRL
+2025-12-03 00:25:17,677 [INFO] Argument:329 - Argument : Modevalue: DMA_PFCTRL
+2025-12-03 00:25:17,677 [INFO] Argument:319 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2025-12-03 00:25:17,677 [INFO] Argument:329 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2025-12-03 00:25:17,677 [INFO] Argument:319 - Argument : FIFOModevalue: DMA_FIFOMODE_ENABLE
+2025-12-03 00:25:17,677 [INFO] Argument:329 - Argument : FIFOModevalue: DMA_FIFOMODE_ENABLE
+2025-12-03 00:25:17,677 [INFO] Argument:319 - Argument : FIFOThresholdvalue: DMA_FIFO_THRESHOLD_FULL
+2025-12-03 00:25:17,677 [INFO] Argument:329 - Argument : FIFOThresholdvalue: DMA_FIFO_THRESHOLD_FULL
+2025-12-03 00:25:17,677 [INFO] Argument:319 - Argument : MemBurstvalue: DMA_MBURST_INC4
+2025-12-03 00:25:17,678 [INFO] Argument:329 - Argument : MemBurstvalue: DMA_MBURST_INC4
+2025-12-03 00:25:17,678 [INFO] Argument:319 - Argument : PeriphBurstvalue: DMA_PBURST_INC4
+2025-12-03 00:25:17,678 [INFO] Argument:329 - Argument : PeriphBurstvalue: DMA_PBURST_INC4
+2025-12-03 00:25:17,678 [INFO] Argument:319 - Argument : Lockvalue: null
+2025-12-03 00:25:17,678 [INFO] Argument:329 - Argument : Lockvalue: null
+2025-12-03 00:25:17,678 [INFO] Argument:319 - Argument : Statevalue: null
+2025-12-03 00:25:17,678 [INFO] Argument:329 - Argument : Statevalue: null
+2025-12-03 00:25:17,678 [INFO] Argument:319 - Argument : Parentvalue: null
+2025-12-03 00:25:17,678 [INFO] Argument:329 - Argument : Parentvalue: null
+2025-12-03 00:25:17,678 [INFO] Argument:319 - Argument : XferCpltCallbackvalue: null
+2025-12-03 00:25:17,678 [INFO] Argument:329 - Argument : XferCpltCallbackvalue: null
+2025-12-03 00:25:17,678 [INFO] Argument:319 - Argument : XferHalfCpltCallbackvalue: null
+2025-12-03 00:25:17,678 [INFO] Argument:329 - Argument : XferHalfCpltCallbackvalue: null
+2025-12-03 00:25:17,678 [INFO] Argument:319 - Argument : XferM1CpltCallbackvalue: null
+2025-12-03 00:25:17,678 [INFO] Argument:329 - Argument : XferM1CpltCallbackvalue: null
+2025-12-03 00:25:17,678 [INFO] Argument:319 - Argument : XferErrorCallbackvalue: null
+2025-12-03 00:25:17,679 [INFO] Argument:329 - Argument : XferErrorCallbackvalue: null
+2025-12-03 00:25:17,679 [INFO] Argument:319 - Argument : ErrorCodevalue: null
+2025-12-03 00:25:17,679 [INFO] Argument:329 - Argument : ErrorCodevalue: null
+2025-12-03 00:25:17,772 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\license.tmp_save
+2025-12-03 00:25:17,850 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\license.tmp
+2025-12-03 00:25:17,862 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\gpio.tmp_save
+2025-12-03 00:25:17,958 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\gpio.tmp
+2025-12-03 00:25:18,076 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_HalInit.tmp_save
+2025-12-03 00:25:18,146 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_HalInit.tmp
+2025-12-03 00:25:18,148 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_vars.tmp_save
+2025-12-03 00:25:18,184 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_vars.tmp
+2025-12-03 00:25:18,187 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_ext_vars.tmp_save
+2025-12-03 00:25:18,220 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_ext_vars.tmp
+2025-12-03 00:25:18,221 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_inc.tmp_save
+2025-12-03 00:25:18,254 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_inc.tmp
+2025-12-03 00:25:18,277 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\dma.tmp_save
+2025-12-03 00:25:18,327 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\dma.tmp
+2025-12-03 00:25:18,329 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\dma_GV.tmp_save
+2025-12-03 00:25:18,361 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\dma_GV.tmp
+2025-12-03 00:25:18,368 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_HalInit.tmp_save
+2025-12-03 00:25:18,415 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_HalInit.tmp
+2025-12-03 00:25:18,420 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_vars.tmp_save
+2025-12-03 00:25:18,460 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_vars.tmp
+2025-12-03 00:25:18,464 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_ext_vars.tmp_save
+2025-12-03 00:25:18,508 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_ext_vars.tmp
+2025-12-03 00:25:18,512 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_inc.tmp_save
+2025-12-03 00:25:18,549 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_inc.tmp
+2025-12-03 00:25:18,565 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\ffconf.h_save
+2025-12-03 00:25:18,684 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\ffconf.h
+2025-12-03 00:25:18,719 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\bsp_driver_sd.c_save
+2025-12-03 00:25:18,808 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\bsp_driver_sd.c
+2025-12-03 00:25:18,811 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\bsp_driver_sd.h_save
+2025-12-03 00:25:18,847 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\bsp_driver_sd.h
+2025-12-03 00:25:18,850 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\sd_diskio.h_save
+2025-12-03 00:25:18,891 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\sd_diskio.h
+2025-12-03 00:25:18,903 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\sd_diskio.c_save
+2025-12-03 00:25:18,958 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\sd_diskio.c
+2025-12-03 00:25:18,961 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\App\fatfs.c_save
+2025-12-03 00:25:18,997 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\App\fatfs.c
+2025-12-03 00:25:19,001 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\App\fatfs.h_save
+2025-12-03 00:25:19,044 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\App\fatfs.h
+2025-12-03 00:25:19,046 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\fatfs_platform.c_save
+2025-12-03 00:25:19,082 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\fatfs_platform.c
+2025-12-03 00:25:19,086 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\fatfs_platform.h_save
+2025-12-03 00:25:19,119 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\fatfs_platform.h
+2025-12-03 00:25:19,135 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Src\stm32f4xx_it.c_save
+2025-12-03 00:25:19,216 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Src\stm32f4xx_it.c
+2025-12-03 00:25:19,221 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Inc\stm32f4xx_it.h_save
+2025-12-03 00:25:19,254 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Inc\stm32f4xx_it.h
+2025-12-03 00:25:19,269 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Src\stm32f4xx_hal_msp.c_save
+2025-12-03 00:25:19,340 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Src\stm32f4xx_hal_msp.c
+2025-12-03 00:25:19,344 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\system.tmp_save
+2025-12-03 00:25:19,375 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\system.tmp
+2025-12-03 00:25:19,388 [INFO] CodeEngine:311 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-12-03 00:25:19,464 [INFO] CodeEngine:335 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Inc\stm32f4xx_hal_conf.h
+2025-12-03 00:25:19,502 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Inc\main.h_save
+2025-12-03 00:25:19,565 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Inc\main.h
+2025-12-03 00:25:19,580 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Src\main.c_save
+2025-12-03 00:25:19,695 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Src\main.c
+2025-12-03 00:25:20,111 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 162mS.
+2025-12-03 00:25:20,129 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2025-12-03 00:25:20,266 [INFO] ConfigFileManager:1457 - The Die is : DIE413
+2025-12-03 00:25:21,395 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1266mS.
+2025-12-03 00:25:21,396 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2025-12-03 00:25:21,403 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2025-12-03 00:29:38,351 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 869118272 Bytes (1073741824)
+2025-12-03 00:29:39,393 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 900575552 Bytes (1073741824)
+2025-12-03 00:29:40,206 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 860488680 Bytes (1073741824)
+2025-12-03 00:29:40,388 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RNG
+2025-12-03 00:29:40,388 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SDIO
+2025-12-03 00:29:40,388 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2025-12-03 00:29:40,388 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2025-12-03 00:29:40,388 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: CRC
+2025-12-03 00:29:40,388 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2025-12-03 00:29:40,388 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2025-12-03 00:29:40,388 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DMA
+2025-12-03 00:29:40,389 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2025-12-03 00:29:40,389 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FATFS
+2025-12-03 00:29:40,390 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.13.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.0.202307051724\\db\
+2025-12-03 00:29:40,397 [INFO] Argument:319 - Argument : hdmavalue: null
+2025-12-03 00:29:40,397 [INFO] Argument:321 - 	 sub Args: 
+2025-12-03 00:29:40,397 [INFO] Argument:319 - Argument : Instancevalue: DMA2_Stream3
+2025-12-03 00:29:40,397 [INFO] Argument:329 - Argument : Instancevalue: DMA2_Stream3
+2025-12-03 00:29:40,397 [INFO] Argument:319 - Argument : Initvalue: null
+2025-12-03 00:29:40,397 [INFO] Argument:321 - 	 sub Args: 
+2025-12-03 00:29:40,397 [INFO] Argument:319 - Argument : Channelvalue: DMA_CHANNEL_4
+2025-12-03 00:29:40,397 [INFO] Argument:329 - Argument : Channelvalue: DMA_CHANNEL_4
+2025-12-03 00:29:40,397 [INFO] Argument:319 - Argument : Directionvalue: DMA_MEMORY_TO_PERIPH
+2025-12-03 00:29:40,397 [INFO] Argument:329 - Argument : Directionvalue: DMA_MEMORY_TO_PERIPH
+2025-12-03 00:29:40,397 [INFO] Argument:319 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2025-12-03 00:29:40,397 [INFO] Argument:329 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2025-12-03 00:29:40,397 [INFO] Argument:319 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2025-12-03 00:29:40,397 [INFO] Argument:329 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2025-12-03 00:29:40,397 [INFO] Argument:319 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_WORD
+2025-12-03 00:29:40,397 [INFO] Argument:329 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_WORD
+2025-12-03 00:29:40,397 [INFO] Argument:319 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_WORD
+2025-12-03 00:29:40,397 [INFO] Argument:329 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_WORD
+2025-12-03 00:29:40,397 [INFO] Argument:319 - Argument : Modevalue: DMA_PFCTRL
+2025-12-03 00:29:40,397 [INFO] Argument:329 - Argument : Modevalue: DMA_PFCTRL
+2025-12-03 00:29:40,397 [INFO] Argument:319 - Argument : Priorityvalue: DMA_PRIORITY_VERY_HIGH
+2025-12-03 00:29:40,397 [INFO] Argument:329 - Argument : Priorityvalue: DMA_PRIORITY_VERY_HIGH
+2025-12-03 00:29:40,397 [INFO] Argument:319 - Argument : FIFOModevalue: DMA_FIFOMODE_ENABLE
+2025-12-03 00:29:40,397 [INFO] Argument:329 - Argument : FIFOModevalue: DMA_FIFOMODE_ENABLE
+2025-12-03 00:29:40,397 [INFO] Argument:319 - Argument : FIFOThresholdvalue: DMA_FIFO_THRESHOLD_FULL
+2025-12-03 00:29:40,397 [INFO] Argument:329 - Argument : FIFOThresholdvalue: DMA_FIFO_THRESHOLD_FULL
+2025-12-03 00:29:40,397 [INFO] Argument:319 - Argument : MemBurstvalue: DMA_MBURST_INC4
+2025-12-03 00:29:40,397 [INFO] Argument:329 - Argument : MemBurstvalue: DMA_MBURST_INC4
+2025-12-03 00:29:40,397 [INFO] Argument:319 - Argument : PeriphBurstvalue: DMA_PBURST_INC4
+2025-12-03 00:29:40,397 [INFO] Argument:329 - Argument : PeriphBurstvalue: DMA_PBURST_INC4
+2025-12-03 00:29:40,397 [INFO] Argument:319 - Argument : Lockvalue: null
+2025-12-03 00:29:40,397 [INFO] Argument:329 - Argument : Lockvalue: null
+2025-12-03 00:29:40,397 [INFO] Argument:319 - Argument : Statevalue: null
+2025-12-03 00:29:40,397 [INFO] Argument:329 - Argument : Statevalue: null
+2025-12-03 00:29:40,397 [INFO] Argument:319 - Argument : Parentvalue: null
+2025-12-03 00:29:40,397 [INFO] Argument:329 - Argument : Parentvalue: null
+2025-12-03 00:29:40,397 [INFO] Argument:319 - Argument : XferCpltCallbackvalue: null
+2025-12-03 00:29:40,397 [INFO] Argument:329 - Argument : XferCpltCallbackvalue: null
+2025-12-03 00:29:40,397 [INFO] Argument:319 - Argument : XferHalfCpltCallbackvalue: null
+2025-12-03 00:29:40,397 [INFO] Argument:329 - Argument : XferHalfCpltCallbackvalue: null
+2025-12-03 00:29:40,397 [INFO] Argument:319 - Argument : XferM1CpltCallbackvalue: null
+2025-12-03 00:29:40,397 [INFO] Argument:329 - Argument : XferM1CpltCallbackvalue: null
+2025-12-03 00:29:40,397 [INFO] Argument:319 - Argument : XferErrorCallbackvalue: null
+2025-12-03 00:29:40,397 [INFO] Argument:329 - Argument : XferErrorCallbackvalue: null
+2025-12-03 00:29:40,397 [INFO] Argument:319 - Argument : ErrorCodevalue: null
+2025-12-03 00:29:40,397 [INFO] Argument:329 - Argument : ErrorCodevalue: null
+2025-12-03 00:29:40,398 [INFO] Argument:319 - Argument : hdmavalue: null
+2025-12-03 00:29:40,398 [INFO] Argument:321 - 	 sub Args: 
+2025-12-03 00:29:40,398 [INFO] Argument:319 - Argument : Instancevalue: DMA2_Stream6
+2025-12-03 00:29:40,398 [INFO] Argument:329 - Argument : Instancevalue: DMA2_Stream6
+2025-12-03 00:29:40,398 [INFO] Argument:319 - Argument : Initvalue: null
+2025-12-03 00:29:40,398 [INFO] Argument:321 - 	 sub Args: 
+2025-12-03 00:29:40,398 [INFO] Argument:319 - Argument : Channelvalue: DMA_CHANNEL_4
+2025-12-03 00:29:40,398 [INFO] Argument:329 - Argument : Channelvalue: DMA_CHANNEL_4
+2025-12-03 00:29:40,398 [INFO] Argument:319 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2025-12-03 00:29:40,398 [INFO] Argument:329 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2025-12-03 00:29:40,398 [INFO] Argument:319 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2025-12-03 00:29:40,398 [INFO] Argument:329 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2025-12-03 00:29:40,398 [INFO] Argument:319 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2025-12-03 00:29:40,398 [INFO] Argument:329 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2025-12-03 00:29:40,398 [INFO] Argument:319 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_WORD
+2025-12-03 00:29:40,398 [INFO] Argument:329 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_WORD
+2025-12-03 00:29:40,398 [INFO] Argument:319 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_WORD
+2025-12-03 00:29:40,398 [INFO] Argument:329 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_WORD
+2025-12-03 00:29:40,398 [INFO] Argument:319 - Argument : Modevalue: DMA_PFCTRL
+2025-12-03 00:29:40,398 [INFO] Argument:329 - Argument : Modevalue: DMA_PFCTRL
+2025-12-03 00:29:40,398 [INFO] Argument:319 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2025-12-03 00:29:40,398 [INFO] Argument:329 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2025-12-03 00:29:40,398 [INFO] Argument:319 - Argument : FIFOModevalue: DMA_FIFOMODE_ENABLE
+2025-12-03 00:29:40,398 [INFO] Argument:329 - Argument : FIFOModevalue: DMA_FIFOMODE_ENABLE
+2025-12-03 00:29:40,398 [INFO] Argument:319 - Argument : FIFOThresholdvalue: DMA_FIFO_THRESHOLD_FULL
+2025-12-03 00:29:40,398 [INFO] Argument:329 - Argument : FIFOThresholdvalue: DMA_FIFO_THRESHOLD_FULL
+2025-12-03 00:29:40,398 [INFO] Argument:319 - Argument : MemBurstvalue: DMA_MBURST_INC4
+2025-12-03 00:29:40,398 [INFO] Argument:329 - Argument : MemBurstvalue: DMA_MBURST_INC4
+2025-12-03 00:29:40,398 [INFO] Argument:319 - Argument : PeriphBurstvalue: DMA_PBURST_INC4
+2025-12-03 00:29:40,398 [INFO] Argument:329 - Argument : PeriphBurstvalue: DMA_PBURST_INC4
+2025-12-03 00:29:40,398 [INFO] Argument:319 - Argument : Lockvalue: null
+2025-12-03 00:29:40,398 [INFO] Argument:329 - Argument : Lockvalue: null
+2025-12-03 00:29:40,398 [INFO] Argument:319 - Argument : Statevalue: null
+2025-12-03 00:29:40,398 [INFO] Argument:329 - Argument : Statevalue: null
+2025-12-03 00:29:40,398 [INFO] Argument:319 - Argument : Parentvalue: null
+2025-12-03 00:29:40,398 [INFO] Argument:329 - Argument : Parentvalue: null
+2025-12-03 00:29:40,398 [INFO] Argument:319 - Argument : XferCpltCallbackvalue: null
+2025-12-03 00:29:40,398 [INFO] Argument:329 - Argument : XferCpltCallbackvalue: null
+2025-12-03 00:29:40,398 [INFO] Argument:319 - Argument : XferHalfCpltCallbackvalue: null
+2025-12-03 00:29:40,398 [INFO] Argument:329 - Argument : XferHalfCpltCallbackvalue: null
+2025-12-03 00:29:40,398 [INFO] Argument:319 - Argument : XferM1CpltCallbackvalue: null
+2025-12-03 00:29:40,398 [INFO] Argument:329 - Argument : XferM1CpltCallbackvalue: null
+2025-12-03 00:29:40,398 [INFO] Argument:319 - Argument : XferErrorCallbackvalue: null
+2025-12-03 00:29:40,398 [INFO] Argument:329 - Argument : XferErrorCallbackvalue: null
+2025-12-03 00:29:40,398 [INFO] Argument:319 - Argument : ErrorCodevalue: null
+2025-12-03 00:29:40,398 [INFO] Argument:329 - Argument : ErrorCodevalue: null
+2025-12-03 00:29:40,507 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\license.tmp_save
+2025-12-03 00:29:40,594 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\license.tmp
+2025-12-03 00:29:40,619 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\gpio.tmp_save
+2025-12-03 00:29:40,684 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\gpio.tmp
+2025-12-03 00:29:40,845 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_HalInit.tmp_save
+2025-12-03 00:29:40,929 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_HalInit.tmp
+2025-12-03 00:29:40,933 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_vars.tmp_save
+2025-12-03 00:29:40,992 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_vars.tmp
+2025-12-03 00:29:40,995 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_ext_vars.tmp_save
+2025-12-03 00:29:41,076 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_ext_vars.tmp
+2025-12-03 00:29:41,079 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_inc.tmp_save
+2025-12-03 00:29:41,137 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_inc.tmp
+2025-12-03 00:29:41,169 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\dma.tmp_save
+2025-12-03 00:29:41,230 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\dma.tmp
+2025-12-03 00:29:41,233 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\dma_GV.tmp_save
+2025-12-03 00:29:41,268 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\dma_GV.tmp
+2025-12-03 00:29:41,276 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_HalInit.tmp_save
+2025-12-03 00:29:41,330 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_HalInit.tmp
+2025-12-03 00:29:41,333 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_vars.tmp_save
+2025-12-03 00:29:41,370 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_vars.tmp
+2025-12-03 00:29:41,373 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_ext_vars.tmp_save
+2025-12-03 00:29:41,413 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_ext_vars.tmp
+2025-12-03 00:29:41,417 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_inc.tmp_save
+2025-12-03 00:29:41,459 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_inc.tmp
+2025-12-03 00:29:41,480 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\ffconf.h_save
+2025-12-03 00:29:41,575 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\ffconf.h
+2025-12-03 00:29:41,593 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\bsp_driver_sd.c_save
+2025-12-03 00:29:41,675 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\bsp_driver_sd.c
+2025-12-03 00:29:41,679 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\bsp_driver_sd.h_save
+2025-12-03 00:29:41,722 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\bsp_driver_sd.h
+2025-12-03 00:29:41,727 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\sd_diskio.h_save
+2025-12-03 00:29:41,780 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\sd_diskio.h
+2025-12-03 00:29:41,796 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\sd_diskio.c_save
+2025-12-03 00:29:41,840 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\sd_diskio.c
+2025-12-03 00:29:41,844 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\App\fatfs.c_save
+2025-12-03 00:29:41,884 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\App\fatfs.c
+2025-12-03 00:29:41,887 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\App\fatfs.h_save
+2025-12-03 00:29:41,927 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\App\fatfs.h
+2025-12-03 00:29:41,932 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\fatfs_platform.c_save
+2025-12-03 00:29:41,974 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\fatfs_platform.c
+2025-12-03 00:29:41,979 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\fatfs_platform.h_save
+2025-12-03 00:29:42,024 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\fatfs_platform.h
+2025-12-03 00:29:42,052 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Src\stm32f4xx_it.c_save
+2025-12-03 00:29:42,157 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Src\stm32f4xx_it.c
+2025-12-03 00:29:42,163 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Inc\stm32f4xx_it.h_save
+2025-12-03 00:29:42,221 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Inc\stm32f4xx_it.h
+2025-12-03 00:29:42,257 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Src\stm32f4xx_hal_msp.c_save
+2025-12-03 00:29:42,389 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Src\stm32f4xx_hal_msp.c
+2025-12-03 00:29:42,408 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\system.tmp_save
+2025-12-03 00:29:42,477 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\system.tmp
+2025-12-03 00:29:42,500 [INFO] CodeEngine:311 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-12-03 00:29:42,596 [INFO] CodeEngine:335 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Inc\stm32f4xx_hal_conf.h
+2025-12-03 00:29:42,642 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Inc\main.h_save
+2025-12-03 00:29:42,695 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Inc\main.h
+2025-12-03 00:29:42,715 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Src\main.c_save
+2025-12-03 00:29:42,831 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Src\main.c
+2025-12-03 00:29:43,382 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 235mS.
+2025-12-03 00:29:43,387 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2025-12-03 00:29:43,544 [INFO] ConfigFileManager:1457 - The Die is : DIE413
+2025-12-03 00:29:45,365 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1978mS.
+2025-12-03 00:29:45,370 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 5mS.
+2025-12-03 00:29:45,381 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2025-12-03 00:32:31,174 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 854160640 Bytes (1073741824)
+2025-12-03 00:32:32,436 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 886144256 Bytes (1073741824)
+2025-12-03 00:32:32,892 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 828036376 Bytes (1073741824)
+2025-12-03 00:32:33,043 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RNG
+2025-12-03 00:32:33,043 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SDIO
+2025-12-03 00:32:33,043 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2025-12-03 00:32:33,043 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2025-12-03 00:32:33,043 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: CRC
+2025-12-03 00:32:33,043 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2025-12-03 00:32:33,043 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2025-12-03 00:32:33,043 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DMA
+2025-12-03 00:32:33,043 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2025-12-03 00:32:33,043 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FATFS
+2025-12-03 00:32:33,045 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.13.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.0.202307051724\\db\
+2025-12-03 00:32:33,058 [INFO] Argument:319 - Argument : hdmavalue: null
+2025-12-03 00:32:33,058 [INFO] Argument:321 - 	 sub Args: 
+2025-12-03 00:32:33,058 [INFO] Argument:319 - Argument : Instancevalue: DMA2_Stream3
+2025-12-03 00:32:33,058 [INFO] Argument:329 - Argument : Instancevalue: DMA2_Stream3
+2025-12-03 00:32:33,058 [INFO] Argument:319 - Argument : Initvalue: null
+2025-12-03 00:32:33,058 [INFO] Argument:321 - 	 sub Args: 
+2025-12-03 00:32:33,058 [INFO] Argument:319 - Argument : Channelvalue: DMA_CHANNEL_4
+2025-12-03 00:32:33,058 [INFO] Argument:329 - Argument : Channelvalue: DMA_CHANNEL_4
+2025-12-03 00:32:33,058 [INFO] Argument:319 - Argument : Directionvalue: DMA_MEMORY_TO_PERIPH
+2025-12-03 00:32:33,058 [INFO] Argument:329 - Argument : Directionvalue: DMA_MEMORY_TO_PERIPH
+2025-12-03 00:32:33,058 [INFO] Argument:319 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2025-12-03 00:32:33,058 [INFO] Argument:329 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2025-12-03 00:32:33,058 [INFO] Argument:319 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2025-12-03 00:32:33,058 [INFO] Argument:329 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2025-12-03 00:32:33,058 [INFO] Argument:319 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_WORD
+2025-12-03 00:32:33,058 [INFO] Argument:329 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_WORD
+2025-12-03 00:32:33,058 [INFO] Argument:319 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_WORD
+2025-12-03 00:32:33,058 [INFO] Argument:329 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_WORD
+2025-12-03 00:32:33,058 [INFO] Argument:319 - Argument : Modevalue: DMA_PFCTRL
+2025-12-03 00:32:33,058 [INFO] Argument:329 - Argument : Modevalue: DMA_PFCTRL
+2025-12-03 00:32:33,058 [INFO] Argument:319 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2025-12-03 00:32:33,058 [INFO] Argument:329 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2025-12-03 00:32:33,058 [INFO] Argument:319 - Argument : FIFOModevalue: DMA_FIFOMODE_ENABLE
+2025-12-03 00:32:33,058 [INFO] Argument:329 - Argument : FIFOModevalue: DMA_FIFOMODE_ENABLE
+2025-12-03 00:32:33,058 [INFO] Argument:319 - Argument : FIFOThresholdvalue: DMA_FIFO_THRESHOLD_FULL
+2025-12-03 00:32:33,058 [INFO] Argument:329 - Argument : FIFOThresholdvalue: DMA_FIFO_THRESHOLD_FULL
+2025-12-03 00:32:33,058 [INFO] Argument:319 - Argument : MemBurstvalue: DMA_MBURST_INC4
+2025-12-03 00:32:33,058 [INFO] Argument:329 - Argument : MemBurstvalue: DMA_MBURST_INC4
+2025-12-03 00:32:33,058 [INFO] Argument:319 - Argument : PeriphBurstvalue: DMA_PBURST_INC4
+2025-12-03 00:32:33,058 [INFO] Argument:329 - Argument : PeriphBurstvalue: DMA_PBURST_INC4
+2025-12-03 00:32:33,058 [INFO] Argument:319 - Argument : Lockvalue: null
+2025-12-03 00:32:33,058 [INFO] Argument:329 - Argument : Lockvalue: null
+2025-12-03 00:32:33,058 [INFO] Argument:319 - Argument : Statevalue: null
+2025-12-03 00:32:33,058 [INFO] Argument:329 - Argument : Statevalue: null
+2025-12-03 00:32:33,058 [INFO] Argument:319 - Argument : Parentvalue: null
+2025-12-03 00:32:33,058 [INFO] Argument:329 - Argument : Parentvalue: null
+2025-12-03 00:32:33,058 [INFO] Argument:319 - Argument : XferCpltCallbackvalue: null
+2025-12-03 00:32:33,058 [INFO] Argument:329 - Argument : XferCpltCallbackvalue: null
+2025-12-03 00:32:33,058 [INFO] Argument:319 - Argument : XferHalfCpltCallbackvalue: null
+2025-12-03 00:32:33,058 [INFO] Argument:329 - Argument : XferHalfCpltCallbackvalue: null
+2025-12-03 00:32:33,058 [INFO] Argument:319 - Argument : XferM1CpltCallbackvalue: null
+2025-12-03 00:32:33,058 [INFO] Argument:329 - Argument : XferM1CpltCallbackvalue: null
+2025-12-03 00:32:33,058 [INFO] Argument:319 - Argument : XferErrorCallbackvalue: null
+2025-12-03 00:32:33,058 [INFO] Argument:329 - Argument : XferErrorCallbackvalue: null
+2025-12-03 00:32:33,058 [INFO] Argument:319 - Argument : ErrorCodevalue: null
+2025-12-03 00:32:33,058 [INFO] Argument:329 - Argument : ErrorCodevalue: null
+2025-12-03 00:32:33,059 [INFO] Argument:319 - Argument : hdmavalue: null
+2025-12-03 00:32:33,059 [INFO] Argument:321 - 	 sub Args: 
+2025-12-03 00:32:33,059 [INFO] Argument:319 - Argument : Instancevalue: DMA2_Stream6
+2025-12-03 00:32:33,059 [INFO] Argument:329 - Argument : Instancevalue: DMA2_Stream6
+2025-12-03 00:32:33,059 [INFO] Argument:319 - Argument : Initvalue: null
+2025-12-03 00:32:33,059 [INFO] Argument:321 - 	 sub Args: 
+2025-12-03 00:32:33,059 [INFO] Argument:319 - Argument : Channelvalue: DMA_CHANNEL_4
+2025-12-03 00:32:33,059 [INFO] Argument:329 - Argument : Channelvalue: DMA_CHANNEL_4
+2025-12-03 00:32:33,059 [INFO] Argument:319 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2025-12-03 00:32:33,059 [INFO] Argument:329 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2025-12-03 00:32:33,059 [INFO] Argument:319 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2025-12-03 00:32:33,059 [INFO] Argument:329 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2025-12-03 00:32:33,059 [INFO] Argument:319 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2025-12-03 00:32:33,059 [INFO] Argument:329 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2025-12-03 00:32:33,059 [INFO] Argument:319 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_WORD
+2025-12-03 00:32:33,059 [INFO] Argument:329 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_WORD
+2025-12-03 00:32:33,059 [INFO] Argument:319 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_WORD
+2025-12-03 00:32:33,059 [INFO] Argument:329 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_WORD
+2025-12-03 00:32:33,059 [INFO] Argument:319 - Argument : Modevalue: DMA_PFCTRL
+2025-12-03 00:32:33,059 [INFO] Argument:329 - Argument : Modevalue: DMA_PFCTRL
+2025-12-03 00:32:33,059 [INFO] Argument:319 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2025-12-03 00:32:33,059 [INFO] Argument:329 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2025-12-03 00:32:33,059 [INFO] Argument:319 - Argument : FIFOModevalue: DMA_FIFOMODE_ENABLE
+2025-12-03 00:32:33,059 [INFO] Argument:329 - Argument : FIFOModevalue: DMA_FIFOMODE_ENABLE
+2025-12-03 00:32:33,059 [INFO] Argument:319 - Argument : FIFOThresholdvalue: DMA_FIFO_THRESHOLD_FULL
+2025-12-03 00:32:33,059 [INFO] Argument:329 - Argument : FIFOThresholdvalue: DMA_FIFO_THRESHOLD_FULL
+2025-12-03 00:32:33,059 [INFO] Argument:319 - Argument : MemBurstvalue: DMA_MBURST_INC4
+2025-12-03 00:32:33,059 [INFO] Argument:329 - Argument : MemBurstvalue: DMA_MBURST_INC4
+2025-12-03 00:32:33,059 [INFO] Argument:319 - Argument : PeriphBurstvalue: DMA_PBURST_INC4
+2025-12-03 00:32:33,059 [INFO] Argument:329 - Argument : PeriphBurstvalue: DMA_PBURST_INC4
+2025-12-03 00:32:33,059 [INFO] Argument:319 - Argument : Lockvalue: null
+2025-12-03 00:32:33,059 [INFO] Argument:329 - Argument : Lockvalue: null
+2025-12-03 00:32:33,059 [INFO] Argument:319 - Argument : Statevalue: null
+2025-12-03 00:32:33,059 [INFO] Argument:329 - Argument : Statevalue: null
+2025-12-03 00:32:33,059 [INFO] Argument:319 - Argument : Parentvalue: null
+2025-12-03 00:32:33,059 [INFO] Argument:329 - Argument : Parentvalue: null
+2025-12-03 00:32:33,059 [INFO] Argument:319 - Argument : XferCpltCallbackvalue: null
+2025-12-03 00:32:33,059 [INFO] Argument:329 - Argument : XferCpltCallbackvalue: null
+2025-12-03 00:32:33,059 [INFO] Argument:319 - Argument : XferHalfCpltCallbackvalue: null
+2025-12-03 00:32:33,059 [INFO] Argument:329 - Argument : XferHalfCpltCallbackvalue: null
+2025-12-03 00:32:33,059 [INFO] Argument:319 - Argument : XferM1CpltCallbackvalue: null
+2025-12-03 00:32:33,059 [INFO] Argument:329 - Argument : XferM1CpltCallbackvalue: null
+2025-12-03 00:32:33,059 [INFO] Argument:319 - Argument : XferErrorCallbackvalue: null
+2025-12-03 00:32:33,059 [INFO] Argument:329 - Argument : XferErrorCallbackvalue: null
+2025-12-03 00:32:33,059 [INFO] Argument:319 - Argument : ErrorCodevalue: null
+2025-12-03 00:32:33,059 [INFO] Argument:329 - Argument : ErrorCodevalue: null
+2025-12-03 00:32:33,197 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\license.tmp_save
+2025-12-03 00:32:33,282 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\license.tmp
+2025-12-03 00:32:33,293 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\gpio.tmp_save
+2025-12-03 00:32:33,460 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\gpio.tmp
+2025-12-03 00:32:33,593 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_HalInit.tmp_save
+2025-12-03 00:32:33,653 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_HalInit.tmp
+2025-12-03 00:32:33,656 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_vars.tmp_save
+2025-12-03 00:32:33,689 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_vars.tmp
+2025-12-03 00:32:33,692 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_ext_vars.tmp_save
+2025-12-03 00:32:33,722 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_ext_vars.tmp
+2025-12-03 00:32:33,725 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_inc.tmp_save
+2025-12-03 00:32:33,759 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_inc.tmp
+2025-12-03 00:32:33,792 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\dma.tmp_save
+2025-12-03 00:32:33,849 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\dma.tmp
+2025-12-03 00:32:33,852 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\dma_GV.tmp_save
+2025-12-03 00:32:33,889 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\dma_GV.tmp
+2025-12-03 00:32:33,908 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_HalInit.tmp_save
+2025-12-03 00:32:33,956 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_HalInit.tmp
+2025-12-03 00:32:33,961 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_vars.tmp_save
+2025-12-03 00:32:34,019 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_vars.tmp
+2025-12-03 00:32:34,023 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_ext_vars.tmp_save
+2025-12-03 00:32:34,065 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_ext_vars.tmp
+2025-12-03 00:32:34,070 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_inc.tmp_save
+2025-12-03 00:32:34,108 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\fatfs_inc.tmp
+2025-12-03 00:32:34,122 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\ffconf.h_save
+2025-12-03 00:32:34,197 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\ffconf.h
+2025-12-03 00:32:34,209 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\bsp_driver_sd.c_save
+2025-12-03 00:32:34,272 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\bsp_driver_sd.c
+2025-12-03 00:32:34,275 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\bsp_driver_sd.h_save
+2025-12-03 00:32:34,310 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\bsp_driver_sd.h
+2025-12-03 00:32:34,313 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\sd_diskio.h_save
+2025-12-03 00:32:34,348 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\sd_diskio.h
+2025-12-03 00:32:34,360 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\sd_diskio.c_save
+2025-12-03 00:32:34,427 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\sd_diskio.c
+2025-12-03 00:32:34,437 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\App\fatfs.c_save
+2025-12-03 00:32:34,476 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\App\fatfs.c
+2025-12-03 00:32:34,480 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\App\fatfs.h_save
+2025-12-03 00:32:34,515 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\App\fatfs.h
+2025-12-03 00:32:34,518 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\fatfs_platform.c_save
+2025-12-03 00:32:34,556 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\fatfs_platform.c
+2025-12-03 00:32:34,561 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\fatfs_platform.h_save
+2025-12-03 00:32:34,601 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\FATFS\Target\fatfs_platform.h
+2025-12-03 00:32:34,617 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Src\stm32f4xx_it.c_save
+2025-12-03 00:32:34,700 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Src\stm32f4xx_it.c
+2025-12-03 00:32:34,703 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Inc\stm32f4xx_it.h_save
+2025-12-03 00:32:34,746 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Inc\stm32f4xx_it.h
+2025-12-03 00:32:34,761 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Src\stm32f4xx_hal_msp.c_save
+2025-12-03 00:32:34,831 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Src\stm32f4xx_hal_msp.c
+2025-12-03 00:32:34,834 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\system.tmp_save
+2025-12-03 00:32:34,879 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\MXTmpFiles\system.tmp
+2025-12-03 00:32:34,897 [INFO] CodeEngine:311 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-12-03 00:32:34,982 [INFO] CodeEngine:335 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Inc\stm32f4xx_hal_conf.h
+2025-12-03 00:32:35,020 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Inc\main.h_save
+2025-12-03 00:32:35,102 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Inc\main.h
+2025-12-03 00:32:35,116 [INFO] CodeEngine:255 - oldGeneratedFile, C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Src\main.c_save
+2025-12-03 00:32:35,213 [INFO] CodeEngine:279 - Generated code: C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_DMA_POC_STM32F407\Core\Src\main.c
+2025-12-03 00:32:35,612 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 132mS.
+2025-12-03 00:32:35,636 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2025-12-03 00:32:35,793 [INFO] ConfigFileManager:1457 - The Die is : DIE413
+2025-12-03 00:32:37,306 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1671mS.
+2025-12-03 00:32:37,308 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2025-12-03 00:32:37,317 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2025-12-03 00:37:39,291 [INFO] WebApp:330 - JxBrowser engine has been closed 
