@@ -1,0 +1,10 @@
+13:06:40 **** Incremental Build of configuration Debug for project SD_Card_SDDMC_STM32H723 ****
+make -j16 all 
+arm-none-eabi-size   SD_Card_SDDMC_STM32H723.elf 
+   text	   data	    bss	    dec	    hex	filename
+  59000	    116	   3084	  62200	   f2f8	SD_Card_SDDMC_STM32H723.elf
+Finished building: default.size.stdout
+ 
+
+13:06:40 Build Finished. 0 errors, 0 warnings. (took 217ms)
+

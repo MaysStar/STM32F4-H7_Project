@@ -1,0 +1,18 @@
+!SESSION 2025-12-04 12:09:06.550 -----------------------------------------------
+eclipse.buildId=Version 1.13.0
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=uk_UA
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-12-04 12:09:28.953
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-12-04 12:09:28.963
+!MESSAGE Log4j2 initialized with config file C:\programing\Embedded\projects_stm32\SDIO_Phase_1\SD_Card_SDMMC_STM32H7\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-12-04 12:09:32.355
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-12-04 12:31:02.768
+!MESSAGE Indexed 'SD_Card_SDDMC_STM32H723' (24 sources, 85 headers) in 5.01 sec: 7,708 declarations; 53,800 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0033%)
