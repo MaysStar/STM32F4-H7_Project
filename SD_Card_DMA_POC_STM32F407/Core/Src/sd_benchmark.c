@@ -12,7 +12,7 @@
  * This function write data into file using DMA
  ***************************************************************/
 
-uint32_t sd_benchmark_write(const char *filename, uint32_t size_bytes) {
+uint32_t sd_benchmark_write(const char* filename, uint32_t size_bytes) {
     FIL file;
     UINT written;
 
@@ -22,7 +22,7 @@ uint32_t sd_benchmark_write(const char *filename, uint32_t size_bytes) {
     // set dummy data we can set SPI data if we need it
     memset(buffer, 0xAA, sizeof(buffer));
 
-    FRESULT res = f_open(&file, filename, FA_CREATE_ALWAYS | FA_WRITE);
+    FRESULT res = f_open(&file, filename, FA_OPEN_ALWAYS | FA_WRITE);
     if (res != FR_OK) {
         printf("f_open failed: %d\r\n", res);
         return 0;
@@ -32,12 +32,26 @@ uint32_t sd_benchmark_write(const char *filename, uint32_t size_bytes) {
     uint32_t start = HAL_GetTick();
     uint32_t remaining = size_bytes;
 
-    while (remaining > 0) {
-    	// break the buffer into particles
-    	UINT to_write = (remaining > BUF_SIZE) ? BUF_SIZE : remaining;
+    // Move pointer to end using f_lseek
+    res = f_lseek(&file, f_size(&file));
+    if (res != FR_OK) {
+        f_close(&file);
+        return res;
+    }
 
-    	// write data with DMA
-    	res = f_write(&file, buffer, to_write, &written);
+    while (remaining > 0) {
+        // break the buffer into particles
+        UINT to_write = (remaining > BUF_SIZE) ? BUF_SIZE : remaining;
+
+        // Move pointer to end using f_lseek
+        res = f_lseek(&file, f_size(&file));
+        if (res != FR_OK) {
+            f_close(&file);
+            return res;
+        }
+
+        // write data with DMA
+        res = f_write(&file, buffer, to_write, &written);
         if (res != FR_OK || written != to_write) {
             printf("f_write error\r\n");
             break;
@@ -57,7 +71,7 @@ uint32_t sd_benchmark_write(const char *filename, uint32_t size_bytes) {
  * This function write data from file using DMA
  ***************************************************************/
 
-uint32_t sd_benchmark_read(const char *filename, uint32_t size_bytes) {
+uint32_t sd_benchmark_read(const char* filename, uint32_t size_bytes) {
     FIL file;
     UINT read;
     uint8_t buffer[BUF_SIZE];
@@ -73,7 +87,7 @@ uint32_t sd_benchmark_read(const char *filename, uint32_t size_bytes) {
     uint32_t remaining = size_bytes;
 
     while (remaining > 0) {
-    	// break the buffer into particles
+        // break the buffer into particles
         UINT to_read = (remaining > sizeof(buffer)) ? sizeof(buffer) : remaining;
 
         // read data with DMA
@@ -102,11 +116,13 @@ void sd_benchmark(void) {
     if (sd_mount() == FR_OK) {
         printf("Starting Benchmark Test\r\n");
 
-        uint32_t w = sd_benchmark_write("bench.bin", TEST_SIZE);
-        uint32_t r = sd_benchmark_read("bench.bin", TEST_SIZE);
+        uint32_t w = sd_benchmark_write("bench_11bin", TEST_SIZE);
+        //uint32_t r = sd_benchmark_read("bench_11.bin", TEST_SIZE);
+        uint32_t speed = (((TEST_SIZE * 8) / 1024) / w);
 
         if (w > 0) printf("Write speed: %lu KB/s\r\n", (TEST_SIZE / 1024 * 1000) / w);
-        if (r > 0) printf("Read  speed: %lu KB/s\r\n", (TEST_SIZE / 1024 * 1000) / r);
+        //if (r > 0) printf("Read  speed: %lu KB/s\r\n", (TEST_SIZE / 1024 * 1000) / r);
+        printf("speed: %lu Mbps/s\r\n", speed);
 
         sd_unmount();
     }
